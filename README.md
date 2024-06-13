@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning pytorch (for my AIDO project)
 - 📫 Reach me on linkedin
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: pandas can swim
 
 <!---
